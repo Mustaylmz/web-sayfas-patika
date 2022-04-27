@@ -1,2 +1,2 @@
 # hakkımda
-Kendimi tanıttığım sayfam
+kendimitanıttığı patika proje
